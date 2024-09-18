@@ -73,7 +73,7 @@ Error: Division by zero is not allowed.
 ## Author
 
 - **Name:** Nibir Mahmud
-- **Email:** [Contact Via email](nibirbbkr@gmail.com)
+- **Email:** [nibirbbkr@gmail.com]
 
 ## License
 
